@@ -128,7 +128,7 @@ SSH into the control node and follow the steps below:
 To run the playbook, you need to SSH into the Elk VM, then run docker ps to check that the installation worked as expected. My playbook file: my-elk.yml is location at: /etc/ansible/my-elk.yml 
 Navigate to http://52.190.186.106:5601/app/kibana to confirm ELK and kibana are running. You may need to try from multiple web browsers Click 'Explore on Your Own' and you should see the following:
  
-
+https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-aa4250/blob/fdb3978699c8dad28e23a2c511d84b71a9c2b7cb/Diagrams/elkworking.png
 
 Answer the following questions to fill in the blanks:
 -	Which file is the playbook?   Where do you copy it?
