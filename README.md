@@ -5,7 +5,7 @@ Project 1 - ELK Stack Project
 
 The files in this repository were used to configure the network depicted below.
 
- 
+ https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-aa4250/blob/48621ecb57910daeb1420b55654ef608b0823d98/Diagrams/Project1_13Homework.drawio.png
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
@@ -97,7 +97,7 @@ In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Do
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
- 
+ https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-aa4250/blob/705c2ef32719d077413e2f94023f05059b4e86b1/Diagrams/dockerps.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -128,7 +128,7 @@ SSH into the control node and follow the steps below:
 To run the playbook, you need to SSH into the Elk VM, then run docker ps to check that the installation worked as expected. My playbook file: my-elk.yml is location at: /etc/ansible/my-elk.yml 
 Navigate to http://52.190.186.106:5601/app/kibana to confirm ELK and kibana are running. You may need to try from multiple web browsers Click 'Explore on Your Own' and you should see the following:
  
-
+https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-aa4250/blob/fdb3978699c8dad28e23a2c511d84b71a9c2b7cb/Diagrams/elkworking.png
 
 Answer the following questions to fill in the blanks:
 -	Which file is the playbook?   Where do you copy it?
