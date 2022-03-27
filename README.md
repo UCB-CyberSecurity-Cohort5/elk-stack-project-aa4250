@@ -97,7 +97,7 @@ In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Do
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
- 
+ https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-aa4250/blob/705c2ef32719d077413e2f94023f05059b4e86b1/Diagrams/dockerps.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
